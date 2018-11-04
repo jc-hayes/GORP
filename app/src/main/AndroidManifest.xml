@@ -16,7 +16,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".ManageActivity" />
-        <activity android:name=".RouteActivity"></activity>
+        <activity android:name=".RouteActivity" />
+        <activity android:name=".ARModeActivity"></activity>
     </application>
 
 </manifest>
