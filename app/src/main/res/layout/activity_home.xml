@@ -46,7 +46,7 @@
         android:clickable="true"
         android:focusable="true"
         android:src="@android:drawable/ic_menu_mylocation"
-        android:tint="@color/colorLightGrayRed"
+        android:tint="@color/common_google_signin_btn_text_dark_focused"
         app:backgroundTint="@color/colorHomeBG"
         app:fabSize="mini"
         app:layout_constraintBottom_toTopOf="@+id/floatingActionButton"
